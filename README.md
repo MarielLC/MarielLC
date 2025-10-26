@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Jeanettis Mariel Luyo Correa ✨</h1>
 
 <p align="center">
-  <img src="https://github.com/MarielLC/MarielLC/blob/main/fondo%20GITHUB.jpg" alt="Banner" />
+  <img src="https://github.com/MarielLC/MarielLC/blob/main/BANNER%20LINKEDIN.jpg" alt="Banner" />
 </p>
 
 ---

@@ -8,7 +8,12 @@
 
 ## 🚀 Sobre mí
 
-Soy **Jeanettis** egresada de Ingeniería de Sistemas, perteneciente al décimo superior, con formación en Calidad de Software y Análisis de Datos. Recientemente participé en el programa Tech Girl Power de NTT DATA, donde reforcé mis habilidades en pruebas funcionales y automatizadas (Selenium, Karate DSL, Cucumber, Postman, Appium Inspector), metodologías ágiles y fundamentos ISTQB. Me apasiona garantizar la calidad y eficiencia de las aplicaciones mediante buenas prácticas de testing y trabajo colaborativo. Además, cuento con conocimientos en Power BI, SQL y Reporting, lo que me permite tener una visión integral de los datos y resultados.
+Soy **Jeanettis**, egresada de Ingeniería de Sistemas, perteneciente al **décimo superior**, con formación en **Calidad de Software** y **Análisis de Datos**.  
+Recientemente participé en el programa **Tech Girl Power de NTT DATA**, donde reforcé mis habilidades en **pruebas funcionales y automatizadas** (Selenium, Karate DSL, Cucumber, Postman, Appium Inspector), **metodologías ágiles** y **fundamentos ISTQB**.
+
+Me apasiona garantizar la calidad y eficiencia de las aplicaciones mediante buenas prácticas de testing y trabajo colaborativo.  
+Además, cuento con conocimientos en **Power BI, SQL y Reporting**, lo que me permite tener una visión integral de los datos y resultados.
+
 ---
 
 ## 🛠 Tecnologías y herramientas que uso

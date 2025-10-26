@@ -28,6 +28,11 @@ Además, cuento con conocimientos en **Power BI, SQL y Reporting**, lo que me pe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman" />
+  <img src="https://raw.githubusercontent.com/karatelabs/karate/master/karate-logo.svg" width="40" title="Karate DSL" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Appium.png" width="40" title="Appium Inspector" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
 </p>
 
 ---

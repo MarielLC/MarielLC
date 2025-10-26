@@ -39,10 +39,11 @@ Además, cuento con conocimientos en **Power BI, SQL y Reporting**, lo que me pe
 ## 📚 Actualmente estoy aprendiendo
 
 - Desarrollo backend con **PHP** y **MySQL**
-- Mejores prácticas de diseño UX con herramientas como **Figma**, **Maze**, **Optimal Workshop**
+- Mejores prácticas de diseño UX con herramientas como **Figma** y **Optimal Workshop**
 - Integración de diseño a código con **Bootstrap v5**
-- Metodologías ágiles como **Scrum y Design Thinking** en proyectos reales
-
+- Metodologías ágiles como **Scrum y Design Thinking**.
+- Automatización de pruebas con **Selenium**, **Appium y Karate DSL**.
+- Pruebas API REST con **Postman** y frameworks de automatización.
 ---
 
 ## 📂 Algunos proyectos recientes

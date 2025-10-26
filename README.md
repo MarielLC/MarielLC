@@ -43,7 +43,7 @@ Además, cuento con conocimientos en **Power BI, SQL y Reporting**, lo que me pe
 - Integración de diseño a código con **Bootstrap v5**
 - Metodologías ágiles como **Scrum y Design Thinking**.
 - Automatización de pruebas con **Selenium**, **Appium y Karate DSL**.
-- Pruebas API REST con **Postman** y frameworks de automatización.
+- Pruebas API REST con **Postman**.
 ---
 
 ## 📂 Algunos proyectos recientes

@@ -30,9 +30,9 @@ Además, cuento con conocimientos en **Power BI, SQL y Reporting**, lo que me pe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman" />
-   <img src="https://raw.githubusercontent.com/karatelabs/karate/master/karate-logo.svg" width="40" title="Karate DSL" style="background-color: white; border-radius: 6px; padding: 2px;" />
-  <img src="https://raw.githubusercontent.com/appium/appium-desktop/main/docs/icons/appium.png" width="40" title="Appium Inspector" style="border-radius: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
+  <img src="https://avatars.githubusercontent.com/u/3097894?s=200&v=4" width="40" title="Karate DSL" />
+  <img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" width="40" title="Appium / Appium Inspector" />
 </p>
 
 ---
